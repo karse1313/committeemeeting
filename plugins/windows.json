@@ -1,0 +1,31 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-ms-azure-mobile-apps": {
+            "PACKAGE_NAME": "committeemeeting"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "committeemeeting"
+        },
+        "cordova-plugin-ms-adal": {
+            "PACKAGE_NAME": "committeemeeting"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "committeemeeting"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "committeemeeting"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "committeemeeting"
+        }
+    }
+}
